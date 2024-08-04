@@ -8,6 +8,5 @@ Projeto em andamento para aprendizado em React!
 - React
 - Git
 - GitHub
-- SSH
 
 Confira meu perfil em: [DevHyagooc](https://github.com/DevHyagooc)
